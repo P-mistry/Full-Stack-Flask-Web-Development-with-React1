@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return ' Welcome to Bizza Platform!'
+    return ' Welcome to Parth Platform!'
 
 
 if __name__ == '__main__':
